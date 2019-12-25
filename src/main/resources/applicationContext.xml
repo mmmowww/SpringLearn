@@ -11,5 +11,8 @@
           class="org.example.springcourse.TestBean">
         <constructor-arg value="Selistral"/>
     </bean>
-
+    <bean id="UserRegistration"
+          class="org.example.springcourse.UserRegistration">
+        <constructor-arg value="NAMESelistral"/>
+    </bean>
 </beans>
