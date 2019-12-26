@@ -11,8 +11,16 @@
           class="org.example.springcourse.TestBean">
         <constructor-arg value="Selistral"/>
     </bean>
-    <bean id="UserRegistration"
-          class="org.example.springcourse.UserRegistration">
+    <bean id="UserAdmin"
+          class="org.example.springcourse.UserAdmin">
         <constructor-arg value="NAMESelistral"/>
+    </bean>
+    <bean id="UserNormal"
+          class="org.example.springcourse.UserNormal">
+        <constructor-arg value="NAMESelistral"/>
+    </bean>
+    <bean id="GetUserRole"
+          class="org.example.springcourse.GetUserRole">
+
     </bean>
 </beans>
