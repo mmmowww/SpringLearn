@@ -13,14 +13,14 @@
     </bean>
     <bean id="UserAdmin"
           class="org.example.springcourse.UserAdmin">
-        <constructor-arg value="NAMESelistral"/>
+
     </bean>
     <bean id="UserNormal"
           class="org.example.springcourse.UserNormal">
-        <constructor-arg value="NAMESelistral"/>
+
     </bean>
-    <bean id="GetUserRole"
-          class="org.example.springcourse.GetUserRole">
+    <bean id="UserModer"
+          class="org.example.springcourse.UserModer">
 
     </bean>
 </beans>

@@ -1,12 +1,7 @@
 package org.example.springcourse;
 
 public class UserNormal implements User  {
-    public int Rule;
-    public String Name;
-    public UserNormal(int rule, String name){
-        this.Rule = rule;
-        this.Name = name;
-    }
+
     @Override
     public String UserName(){
        // System.out.println(this.Name);
