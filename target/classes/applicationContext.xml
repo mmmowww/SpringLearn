@@ -7,20 +7,24 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
+    <context:property-placeholder location="classpath:datNatification.properties"/>
     <bean id="testBean"
           class="org.example.springcourse.TestBean">
         <constructor-arg value="Selistral"/>
     </bean>
     <bean id="UserAdmin"
           class="org.example.springcourse.UserAdmin">
-
     </bean>
     <bean id="UserNormal"
           class="org.example.springcourse.UserNormal">
-
     </bean>
     <bean id="UserModer"
           class="org.example.springcourse.UserModer">
-
     </bean>
+    <bean id="Translate"
+         class="org.example.springcourse.Translate">
+         <constructor-arg value="${Translate.text.INT}"/>
+    </bean>
+
+
 </beans>

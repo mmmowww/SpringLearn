@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d1790dc-3125-4e2a-8487-d425eca08900" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/Translate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/datNatification.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserAdmin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserModer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserModer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserNormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserNormal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/springcourse/TestSpring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,33 +166,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577040218289" />
-    <state width="1877" height="370" key="GridCell.Tab.0.bottom" timestamp="1577544261751">
+    <state width="1877" height="262" key="GridCell.Tab.0.bottom" timestamp="1577806890488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577544261751" />
-    <state width="1877" height="370" key="GridCell.Tab.0.center" timestamp="1577544261750">
+    <state width="1877" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577806890488" />
+    <state width="1877" height="262" key="GridCell.Tab.0.center" timestamp="1577806890488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577544261750" />
-    <state width="1877" height="370" key="GridCell.Tab.0.left" timestamp="1577544261750">
+    <state width="1877" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577806890488" />
+    <state width="1877" height="262" key="GridCell.Tab.0.left" timestamp="1577806890487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577544261750" />
-    <state width="1877" height="370" key="GridCell.Tab.0.right" timestamp="1577544261750">
+    <state width="1877" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577806890487" />
+    <state width="1877" height="262" key="GridCell.Tab.0.right" timestamp="1577806890488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577544261750" />
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1577022892696">
+    <state width="1877" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577806890488" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1577792536289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577022892696" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577792536289" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1577461956561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577461956561" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1577374215070">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1577792536657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577374215070" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577792536657" />
   </component>
 </project>
