@@ -15,7 +15,8 @@
     <bean id="UserAdmin"
           class="org.example.springcourse.UserAdmin"
           init-method = "doMyInit"
-            destroy-method = "doMyDestroy">
+            destroy-method = "doMyDestroy"
+            factory-method = "getUserAdmin">
     </bean>
     <bean id="UserNormal"
           class="org.example.springcourse.UserNormal">

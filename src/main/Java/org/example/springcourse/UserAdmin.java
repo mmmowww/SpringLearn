@@ -1,7 +1,10 @@
 package org.example.springcourse;
 
 public class UserAdmin implements User  {
-  private UserAdmin() {};
+  private UserAdmin() {};   // Закрытый контсруктор для того что бы в MAIN нельзя было им пользоваться
+  public static UserAdmin getUserAdmin(){   // Фабричный метод для иницыализацыии данного класа
+      return new UserAdmin();
+  }
     @Override
     public String UserName(){
     // System.out.println(this.Name);
