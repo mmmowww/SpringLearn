@@ -22,5 +22,8 @@ public class TestSpring {
         Translate trans = context.getBean("Translate", Translate.class);
         trans.run();
         user.UserName();
+
+       // UserAdmin Admin = new UserAdmin();
+        context.close();
     }
 };

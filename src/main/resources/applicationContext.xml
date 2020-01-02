@@ -13,7 +13,9 @@
         <constructor-arg value="Selistral"/>
     </bean>
     <bean id="UserAdmin"
-          class="org.example.springcourse.UserAdmin">
+          class="org.example.springcourse.UserAdmin"
+          init-method = "doMyInit"
+            destroy-method = "doMyDestroy">
     </bean>
     <bean id="UserNormal"
           class="org.example.springcourse.UserNormal">
