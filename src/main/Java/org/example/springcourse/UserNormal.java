@@ -1,5 +1,6 @@
 package org.example.springcourse;
-
+import org.springframework.stereotype.Component;
+@Component("GrandUserNormal")
 public class UserNormal implements User  {
 
     @Override

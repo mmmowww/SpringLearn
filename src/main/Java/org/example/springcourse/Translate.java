@@ -1,4 +1,5 @@
 package org.example.springcourse;
+import org.springframework.stereotype.Component;
 
 public class Translate {
     public String str;

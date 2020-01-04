@@ -1,4 +1,5 @@
 package org.example.springcourse;
+import org.springframework.stereotype.Component;
 
 public class UserAdmin implements User  {
   private UserAdmin() {};   // Закрытый контсруктор для того что бы в MAIN нельзя было им пользоваться

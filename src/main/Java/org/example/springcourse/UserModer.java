@@ -1,5 +1,5 @@
 package org.example.springcourse;
-
+import org.springframework.stereotype.Component;
 public class UserModer implements User  {
 
     @Override

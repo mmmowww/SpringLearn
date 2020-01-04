@@ -1,4 +1,5 @@
 package org.example.springcourse;
+import org.springframework.stereotype.Component;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class TestSpring {
@@ -20,10 +21,12 @@ public class TestSpring {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
         UserAdmin user = context.getBean("UserAdmin", UserAdmin.class);
         Translate trans = context.getBean("Translate", Translate.class);
+        User normal = context.getBean("GrandUserNormal",User.class);
         trans.run();
         user.UserName();
-
-       // UserAdmin Admin = new UserAdmin();
+       // RoleUser BIGuser = new RoleUser(normal);
+       normal.UserName();
         context.close();
+        //BIGuser.SetUserRole();
     }
 };
