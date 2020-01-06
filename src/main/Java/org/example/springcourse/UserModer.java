@@ -1,8 +1,14 @@
 package org.example.springcourse;
 import org.springframework.stereotype.Component;
-public class UserModer implements User  {
+import org.springframework.beans.factory.annotation.Autowired;
 
-    @Override
+public class UserModer implements User  {
+    private User user;
+    @Autowired
+    public UserModer(User user){
+    this.user = user;
+    }
+
     public String UserName(){
       //  System.out.println(this.Name);
       //  return this.Name;
