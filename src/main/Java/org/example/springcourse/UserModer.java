@@ -3,10 +3,10 @@ import org.springframework.stereotype.Component;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class UserModer implements User  {
-    private User user;
+    private UserNormal normal;
     @Autowired
-    public UserModer(User user){
-    this.user = user;
+    public UserModer(UserNormal normal){
+    this.normal = normal;
     }
 
     public String UserName(){
