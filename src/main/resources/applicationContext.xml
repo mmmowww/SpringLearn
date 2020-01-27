@@ -21,7 +21,7 @@
     <bean id="UserNormal"
           class="org.example.springcourse.UserNormal">
     </bean>
-   
+
     <bean id="Translate"
          class="org.example.springcourse.Translate">
          <constructor-arg value="${Translate.text.INT}"/>

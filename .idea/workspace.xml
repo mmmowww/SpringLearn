@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d1790dc-3125-4e2a-8487-d425eca08900" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/PHP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/YiiTASK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserModer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/UserModer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserModer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserModer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/RoleUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/TestBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/TestSpring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/Translate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserModer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserNormal.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +59,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -63,6 +76,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.springcourse.TestSpring" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,14 +166,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Java" timestamp="1580050454577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1580050454577" />
     <state x="552" y="177" key="#Project_Structure" timestamp="1577021688540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577021688540" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577022920055">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580053513677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577022920055" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580053513677" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580053498407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580053498407" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577370385369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -163,33 +190,69 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577040218289" />
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1578309600888">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1580058695904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578309600888" />
-    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1578309600888">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1580058695904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578309600888" />
-    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1578309600888">
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1580058695904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578309600888" />
-    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1578309600888">
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1580058695904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578309600888" />
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1577792536289">
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1580058695904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577792536289" />
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state width="1877" height="354" key="GridCell.Tab.1.center" timestamp="1580058695904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state width="1877" height="354" key="GridCell.Tab.1.left" timestamp="1580058695904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state width="1877" height="354" key="GridCell.Tab.1.right" timestamp="1580058695904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
+    <state x="791" y="231" key="RollbackChangesDialog" timestamp="1580050491291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="791" y="231" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580050491291" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1580050486139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580050486139" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1580052738250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580052738250" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1577461956561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577461956561" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1577792536657">
+    <state x="618" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580048129508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577792536657" />
+    <state x="618" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580048129508" />
+    <state x="1017" y="437" width="846" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580045165903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1017" y="437" width="846" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1580045165903" />
+    <state x="616" y="225" width="672" height="692" key="run.anything.popup" timestamp="1580050487056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="225" width="672" height="692" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580050487056" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580052731949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580052731949" />
   </component>
 </project>
