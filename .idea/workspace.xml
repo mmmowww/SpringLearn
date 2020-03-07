@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d1790dc-3125-4e2a-8487-d425eca08900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/PHP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/YiiTASK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/example/springcourse/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/RoleUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/TestBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/TestSpring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/Translate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserAdmin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserModer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springcourse/UserNormal.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ed94fe68-54fe-44b1-80dc-3c952921e808" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,52 +10,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1VCSsGgbRXam4JBOnAVcchOzieO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1YRM0GOtuqFDdME28ob5CusnynV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="bean" />
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.springcourse.TestSpring" />
-      <module name="Spring" />
+  <component name="RunManager" selected="Application.Application (1)">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MMMOWWW.Application" />
+      <module name="com.MMMOWWW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.springcourse.*" />
+          <option name="PATTERN" value="com.MMMOWWW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,15 +44,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="org.example.springcourse.TestSpring" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="com.MMMOWWW" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSpring" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -109,150 +75,59 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d1790dc-3125-4e2a-8487-d425eca08900" name="Default Changelist" comment="" />
-      <created>1576755788466</created>
+      <changelist id="ed94fe68-54fe-44b1-80dc-3c952921e808" name="Default Changelist" comment="" />
+      <created>1582900728404</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576755788466</updated>
+      <updated>1582900728404</updated>
     </task>
-    <task id="LOCAL-00001" summary="1">
-      <created>1577021303007</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1577021303007</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1">
-      <created>1577021389920</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1577021389920</updated>
-    </task>
-    <task id="LOCAL-00003" summary="1">
-      <created>1577021453359</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1577021453359</updated>
-    </task>
-    <task id="LOCAL-00004" summary="1">
-      <created>1577021657299</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1577021657299</updated>
-    </task>
-    <task id="LOCAL-00005" summary="1">
-      <created>1577021761585</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1577021761585</updated>
-    </task>
-    <task id="LOCAL-00006" summary="1">
-      <created>1577040219116</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1577040219116</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="179" key="#Java" timestamp="1580050454577">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1582904468474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="179" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1580050454577" />
-    <state x="552" y="177" key="#Project_Structure" timestamp="1577021688540">
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582904468474" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577021688540" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580053513677">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580053513677" />
-    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580053498407">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580053498407" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577370385369">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577370385369" />
-    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1577040218289">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577040218289" />
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1580058695904">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1580058695904">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1580058695904">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1582914831544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1580058695904">
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582914831544" />
+    <state x="480" y="208" key="SettingsEditor" timestamp="1582902537360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1580058695904">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state width="1877" height="354" key="GridCell.Tab.1.center" timestamp="1580058695904">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state width="1877" height="354" key="GridCell.Tab.1.left" timestamp="1580058695904">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state width="1877" height="354" key="GridCell.Tab.1.right" timestamp="1580058695904">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580058695904" />
-    <state x="791" y="231" key="RollbackChangesDialog" timestamp="1580050491291">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="791" y="231" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580050491291" />
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1580050486139">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580050486139" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1580052738250">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580052738250" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1577461956561">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577461956561" />
-    <state x="618" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580048129508">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="618" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580048129508" />
-    <state x="1017" y="437" width="846" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580045165903">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1017" y="437" width="846" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1580045165903" />
-    <state x="616" y="225" width="672" height="692" key="run.anything.popup" timestamp="1580050487056">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="225" width="672" height="692" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580050487056" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580052731949">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580052731949" />
+    <state x="480" y="208" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582902537360" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_MMMOWWW$Application__1_.ic" NAME="Application (1) Coverage Results" MODIFIED="1582904706411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.MMMOWWW.*</FILTER>
+    </SUITE>
   </component>
 </project>
