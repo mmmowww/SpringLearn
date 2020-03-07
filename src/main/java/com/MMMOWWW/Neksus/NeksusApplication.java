@@ -9,5 +9,5 @@ public class NeksusApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NeksusApplication.class, args);
 	}
-
+	System.out.println("HELLO");
 }
