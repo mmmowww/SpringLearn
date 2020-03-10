@@ -14,3 +14,4 @@ public class MainController {
         return "home";  // Имя шаблона
     }
 }
+
